@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`learn snapShot changes the class when hovered 1`] = `
+<a
+  className="normalchange"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`learn snapShot changes the class when hovered 2`] = `
+<a
+  className="hovered"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`learn snapShot changes the class when hovered 3`] = `
+<a
+  className="normalchange"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`learn snapShot properly escapes quotes 1`] = `
+<a
+  className="normalchange"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  "Facebook" \\'is \\ 'awesome'
+</a>
+`;
+
+exports[`learn snapShot renders as an anchor when no page is set 1`] = `
+<a
+  className="normalchange"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`learn snapShot renders correctly 1`] = `
+<a
+  className="normalchange"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
