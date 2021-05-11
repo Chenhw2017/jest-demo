@@ -33,7 +33,7 @@
     "enzyme-adapter-react-16.2": "^1.6.2",
     "glob": "^7.1.6",
     "jest": "^26.1.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react-test-renderer": "^16.13.1",
     "rollup": "^2.23.0"
   }
